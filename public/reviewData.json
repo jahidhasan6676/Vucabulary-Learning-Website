@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "JM Jahid Hasan",
+      "profilePic": "https://i.ibb.co.com/vBTbNwt/IMG-20231020-153755.jpg",
+      "review": "This platform has helped me immensely in learning Japanese. Highly recommended!",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "profilePic": "https://t3.ftcdn.net/jpg/07/16/02/62/360_F_716026287_IlR1GfVUi5ZPn1aO7PIY6NU0vCGENRO6.jpg",
+      "review": "The tutorials are very easy to follow, and I love the vocabulary practice sessions!",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "Carlos Gomez",
+      "profilePic": "https://t3.ftcdn.net/jpg/06/58/43/36/360_F_658433636_dCEr4AIhwMtQ5oWdfc7sKOQMhFz2qSgu.jpg",
+      "review": "A great resource for beginners. The lesson structure is very well-organized.",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Aiko Tanaka",
+      "profilePic": "https://www.shutterstock.com/image-photo/photo-asian-man-standing-his-260nw-1861120999.jpg",
+      "review": "The interactive quizzes make learning so much fun! I've made great progress so far.",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "name": "Samuel Lee",
+      "profilePic": "https://static.vecteezy.com/system/resources/previews/036/444/886/non_2x/ai-generated-portrait-of-a-young-japanese-man-with-smiling-expression-facing-the-camera-isolated-white-background-ai-generative-free-photo.jpg",
+      "review": "Good platform, but I wish there were more advanced-level lessons available.",
+      "rating": 3
+    },
+    {
+      "id": 6,
+      "name": "Maria Ivanova",
+      "profilePic": "https://media.istockphoto.com/id/1361564174/video/portrait-of-young-asian-gen-z-man-is-smiling.jpg?s=640x640&k=20&c=5YBD3DODdTEG-j-M793O33ZNjdyriDLEEbexB-ewszw=",
+      "review": "The videos are clear and concise, and I love the way the vocabulary is explained.",
+      "rating": 4
+    }
+  ]
+  
